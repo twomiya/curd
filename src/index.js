@@ -25,7 +25,7 @@ const New =(
             <div className="ui three item menu">
                 <Link className="item" to="/">Home</Link>
                 <Link className="item" to="/games">Games</Link>
-                <Link className="item" to="/new">Add New Game</Link>
+                <Link className="item" to="/games/new">Add New Game</Link>
             </div>
             <Route path='/' exact component={App}/>
             <Route path='/games' exact component={GamesPage}/>
