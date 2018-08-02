@@ -16,4 +16,4 @@ cd backend
 npm install
 npm run start
 ```
-** 默认后端服务端口是8080，可在`backend/server.js`中自行设置 **
+**默认后端服务端口是8080，可在`backend/server.js`中自行设置**
